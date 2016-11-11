@@ -1,0 +1,19 @@
+{
+  "name": "bostonweedparty",
+  "version": "0.0.1",
+  "description": "Boston Weed Party Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturoromeroslc/bostonweedparty.git"
+  },
+  "author": "Arturo Romero <artromero801@gmail.com> (http://arturoromero.info)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturoromeroslc/bostonweedparty/issues"
+  },
+  "homepage": "https://github.com/arturoromeroslc/bostonweedparty#readme"
+}
